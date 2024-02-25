@@ -1,1 +1,1 @@
-document.getElementById("demo").innerHTML = "My First JavaScript";
+console.write("Hello World");
